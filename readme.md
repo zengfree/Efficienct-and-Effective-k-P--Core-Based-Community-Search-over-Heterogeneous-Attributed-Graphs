@@ -108,10 +108,10 @@ Before building index, you should compile dynamic library on Linux system.
 Then, you can run the following instructions for build graph index.
 
 ```
-$ cd MA-NSW
-$ make
-$ cd tests/test/
-$ make
+cd MA-NSW
+make
+cd tests/test/
+make
 ```
 
 After the build is completed,  you can build and search the PG-index through the jar package.
