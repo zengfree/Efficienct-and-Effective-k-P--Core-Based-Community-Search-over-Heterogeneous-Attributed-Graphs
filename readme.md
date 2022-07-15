@@ -24,7 +24,7 @@ we evaluate ten algorithms, and their papers and the original codes are given in
 
 ## 3 Requirements
 
-The experiments have been run on an Ububtu Linux computer with a 3.7 GHz Xeon processor and 64GB RAM. All online algorithms are written with `java1.8`,and the PG-Index are written in C++ and make use of the Boost C++ libraries, OpenMP parallel instructions.
+The experiments have been run on an Ububtu Linux computer with a 3.7 GHz Xeon processor and 128GB RAM. All online algorithms are written with `java1.8`,and the PG-Index are written in C++ and make use of the Boost C++ libraries, OpenMP parallel instructions.
 
 ## 4 Datasets
 
