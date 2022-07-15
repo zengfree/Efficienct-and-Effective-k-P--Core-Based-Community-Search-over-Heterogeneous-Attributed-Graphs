@@ -93,7 +93,7 @@ For our method, we output the query conditions and the result of query.
 MCD: queryId:511,queryK:5,queryMPath:0-0-1-0-0,0.2
 find:17
 704 642 931 291 70 487 775 938 876 751 883 184 26 92 382 511 319
-BD: queryId:511,queryK:5,queryMPath:0-0-1-0-0,tao,0.2,querym:2
+BD: queryId:511,queryK:5,queryMPath:0-0-1-0-0,𝜏,0.2,querym:2
 find:17
 704 642 931 291 70 487 775 938 876 751 883 184 26 92 382 511 319
 BDP: queryId:511,queryK:5,queryMPath:0-0-1-0-0,𝜏,0.2,querym:2
