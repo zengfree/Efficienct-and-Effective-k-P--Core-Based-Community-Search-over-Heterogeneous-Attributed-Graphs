@@ -1,4 +1,3 @@
-[readme.md](https://github.com/zengfree/Efficienct-and-Effective-k-P--Core-Based-Community-Search-over-Heterogeneous-Attributed-Graphs/files/9117550/readme.md)
 <div align='center' ><font size='25'>Efficienct and Effective (k,P)-Core Based Community Search over Heterogeneous Attributed Graphs</font></div>
 
 ## 1 Introduction
